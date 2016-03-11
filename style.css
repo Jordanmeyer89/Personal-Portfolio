@@ -1,0 +1,207 @@
+body {
+  font-family: fantasy;
+  background-color: purple;
+}
+
+#h1p1 {
+  text-align: center;
+  padding-top: 25%;
+  font-size: 40px;
+  font-family: Fantasy;
+  color: purple;
+  font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+  font-size: 28px;
+  padding: 0px;
+  margin: 6px;
+  font-family: Fantasy;
+  color: orange;
+}
+
+#h3p1 {
+  text-align: center;
+  color: orange;
+  font-family: cursive;
+  padding: 0px;
+  margin: 0px;
+  font-size: 14px;
+}
+
+.button1 {
+  margin: 6px 8px;
+  color: purple;
+  background-color: orange;
+  width: 150px;
+}
+
+.movediv {
+  margin: 0 5% 0 15%;
+}
+
+#pg2 {
+  background: url();
+  background-size: 100%;
+}
+
+.toolbar {
+  text-align: center;
+  padding: 6px;
+  margin-top: 6px;
+  margin-left: 24px;
+  margin-right: 4px;
+  margin-bottom: 6px;
+  font-size: 20px;
+  font-weight: bold;
+  border: black;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 2px;
+  font-family: fantasy;
+  height: 36px;
+  color: orange;
+  background-color: purple;
+}
+
+.toolbar2 {
+  text-align: center;
+  margin-right: 4px;
+  font-size: 18px;
+  padding-top: 6px;
+  padding-left: 2px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  font-family: fantasy;
+  background-color: purple;
+  height: 36px;
+  color: orange;
+  font-weight: light-bold;
+  border: #000000;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 2px;
+}
+
+hr {
+  width: 75%;
+  height: 1px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  align: center;
+  border: none;
+  background-color: orange;
+}
+
+#h1p2 {
+  text-align: left;
+  padding-top: 25%;
+  font-size: 40px;
+  font-family: Fantasy;
+  color: purple;
+  font-weight: bold;
+}
+
+#h3p2 {
+  text-align: left;
+  color: orange;
+  font-family: fantasy;
+  padding: 0px;
+  margin: 0px;
+  font-size: 18px;
+}
+
+#hdog {
+  border: purple;
+  border-radius: 50px;
+  border-style: solid;
+  border-width: 10px;
+  width: 50%;
+  height: 50%;
+  margin: -100px 0 0 60px;
+}
+
+// setting base styles to image containers
+[class*="bg__"] {
+  height: 100%;
+  width: 100%;
+  text-indent: -9999px;
+  background-attachment: cover;
+  background-position: center center;
+  background-size: cover;
+}
+
+.bg__Home {
+  height: 100vh;
+  background-image: url("https://www.planwallpaper.com/static/images/i-should-buy-a-boat.jpg");
+  background-size: cover;
+}
+
+.bg__About {
+  background-image: url("http://bgfons.com/upload/industrial_texture689.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+
+.bg__Portfolio {
+  background-image: url("http://www.kucuu.com/desktop-wallpaper-home/Nice-waterfall-desktop-background-picture-of-the-sun-widescreen-wallpaper-1920x1080-0-50a116972323a-1019.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+
+.bg__Contact {
+  height: 90vh;
+  background-size: cover;
+  background-image: url("http://i.imgur.com/5lMBeHW.jpg");
+}
+
+#page1 {
+  padding-bottom: 25%;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 10%;
+  font-size: 40px;
+  font-family: Fantasy;
+  color: purple;
+  font-weight: bold;
+}
+
+#resume {
+  padding-left: 30%;
+}
+
+#resdes {
+  background-color: black;
+  color: white;
+  margin-left: 30%;
+  width: 160px;
+  text-align: center;
+  height: 24px;
+}
+
+#res2 {
+  max-height: 200px;
+  max-width: 160px;
+}
+
+.folio2 {
+  margin-left: 60%;
+  text-align: center;
+  max-height: 200px;
+  max-width: 200px;
+  width: 200px;
+  height: 24px;
+  color: white;
+  background-color: black;
+}
+.button2 {
+  margin: 6px 8px;
+  font-weight:light-bold;
+  text-align:center;
+  color: white;
+  background-color: black;
+  width: 150px;
+}
